@@ -1,0 +1,26 @@
+/* Import Open Sans font */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+/* Set font family */
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+/* Set heading styles */
+h1 {
+  font-size: 45px;
+}
+
+h2 {
+  font-size: 35px;
+}
+
+/* Set body text size */
+p {
+  font-size: 20px;
+}
+
+/* Set smaller text size */
+.small-text {
+  font-size: 14px;
+}
